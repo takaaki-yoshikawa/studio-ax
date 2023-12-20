@@ -1,0 +1,1666 @@
+@media(max-width:599px) {
+    .Top__img__1 {
+        background: url('/wp-content/themes/studio-ax/src/images/top/slide1_sp.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position-x: -400px;
+    }
+    .Select {
+        height: 500px;
+        padding-top: unset
+    }
+    .Select ul {
+        width: 80%;
+        margin: 100px auto 0;
+    }
+    .Select ul li {
+        margin-bottom: 60px;
+        height: 100px;
+    }
+    .Select ul li a {
+        font-size: 24px;
+    }
+    .Select ul li .selectimg.selectimg1 {
+        top: -50px;
+    }
+    .Select ul li .selectimg.selectimg2 {
+        top: -30px;
+    }
+    .tennoujih2 {
+        font-size: 24px;
+    }
+    .tennoujitable .Inst__table__name {
+        font-size: 14px;
+        margin: 15px 30px;
+    }
+    .tennoujitable th {
+        font-size: 18px;
+    }
+    .soon {
+        font-size: 14px !important;
+    }
+    body {
+        background: transparent
+    }
+    .Instinner__main .Section__title .Section__title__h2 {
+        color: #fff
+    }
+    .old__logo img {
+        width: 100%
+    }
+    .AX__Button {
+        width: 70%;
+        font-size: 14px;
+        padding-top: 20px;
+        padding-bottom: 17px
+    }
+    .topindicator {
+        height: 60px !important;
+        width: 23% !important
+    }
+    .Firstview__body .Section__title {
+        margin-bottom: 30%
+    }
+    .White__bg {
+        top: 7%;
+        position: static
+    }
+    .Pc__on {
+        display: none
+    }
+    .Tablet__on {
+        display: none !important
+    }
+    .Mobile__on {
+        display: block !important
+    }
+    .Firstview__body__text {
+        font-size: 9pt !important;
+        text-align: justify;
+        width: 90%;
+        margin-left: auto !important;
+        margin-right: auto !important
+    }
+    .drawer {
+        top: 0
+    }
+    .drawer,
+    .drawer .drbtn {
+        width: 55px;
+        height: 55px
+    }
+    .drawer .drbtn .hambarg:nth-child(1) {
+        top: 18%
+    }
+    .drawer .drbtn .hambarg:nth-child(2) {
+        top: 35%
+    }
+    .drawer .drbtn .hambarg:nth-child(3) {
+        top: 53%
+    }
+    .drawer .drbtn .hambarg:nth-child(4) {
+        top: 70%
+    }
+    .Absolute-center {
+        left: unset;
+        -webkit-transform: unset;
+        -moz-transform: unset;
+        -ms-transform: unset;
+        -o-transform: unset;
+        transform: unset
+    }
+    .link-center {
+        left: 50%;
+        -webkit-transform: translate(-50%, -50%);
+        -moz-transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+        -o-transform: translate(-50%, -50%);
+        transform: translate(-50%, 0)
+    }
+    #wplink .arrow {
+        left: 27%
+    }
+    .Section__title {
+        margin-bottom: 10%;
+        font-size: 34px
+    }
+    .Fix_reserv {
+        left: 0
+    }
+    .Fix_reserv,
+    .Fix_reserv_2 {
+        bottom: 0 !important;
+        top: unset;
+        width: 50%
+    }
+    .Fix_reserv_2 {
+        right: 0
+    }
+    .Header__wrap__ulayer a {
+        width: 20%;
+        display: block;
+        position: relative;
+        z-index: 1
+    }
+    .Naviimg {
+        display: none
+    }
+    .Header__nav__body:nth-child(1) {
+        margin-right: unset
+    }
+    .Header__nav__mobile.action,
+    .Header__nav__ulayer.action {
+        width: 50%
+    }
+    .Header__nav__cover nav {
+        margin-top: 35%
+    }
+    .Header__nav__cover ul li {
+        text-align: center;
+        padding-top: 4%;
+        padding-bottom: 3%
+    }
+    .Header__nav__cover ul li:last-child {
+        margin-bottom: unset;
+        display: flex
+    }
+    .Header__nav__cover ul li a {
+        font-size: 1pc;
+        width: unset
+    }
+    .Header__nav__cover ul li i {
+        margin-left: 25%;
+        line-height: 1.1
+    }
+    .Header__nav__cover .ul__small li a {
+        font-size: 14px
+    }
+    .Header__nav__cover .ul__small .Sns__li {
+        width: 100%
+    }
+    .Header__nav__cover .ul__small .Sns__li i {
+        font-size: 14px
+    }
+    .Firstview > img {
+        top: 35%;
+        width: 30%
+    }
+    .Firstview > p {
+        top: 80%;
+        right: 20px;
+        font-size: 20px
+    }
+    .Section__title .Section__title__h2,
+    .Section__title {
+        color: #000;
+        font-size: 36px !important
+    }
+    .Section__title .schoolname,
+    .Section__title .Section__title__mirror.schoolname {
+        font-size: 26px !important
+    }
+    .Section__title__mirror {
+        position: static;
+        margin-top: -28px;
+        font-size: 36px;
+    }
+
+    .Section__title span {
+        font-size: 20px
+    }
+    .Area .Section__title__mirror {
+        font-size: 35px;
+        margin-top: unset
+    }
+    .Area__body__item {
+        width: 75%;
+        padding-bottom: 30px
+    }
+    .Area__body__item i {
+        font-size: 70px;
+        margin-top: 40px;
+        margin-bottom: 30px
+    }
+    .Area__head p {
+        width: 100%;
+        font-size: 1pc
+    }
+    .Area__body__item h3 {
+        font-size: 20px
+    }
+    .Area__body__item p {
+        font-size: 9pt;
+        width: 90%
+    }
+    .Back__number {
+        font-size: 130px
+    }
+    .Area__body__item .AX__Button {
+        position: static;
+        font-size: 14px;
+        padding-top: 15px;
+        padding-bottom: 9pt;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 8%
+    }
+    .Info {
+        background: #222;
+        padding-top: 10%;
+        padding-bottom: 10%
+    }
+    .Info > img {
+        width: auto;
+        height: 635px
+    }
+    .Info__bg {
+        margin-right: unset
+    }
+    .Article__a__left {
+        width: 100%;
+    }
+    .Info__article__first .Article__a__cover {
+        height: 260px;
+        width: 100%
+    }
+    .Info__article__first .Article__a__date {
+        font-size: 14px;
+        width: 40%;
+    }
+    .Info__article__first h3 {
+        margin-bottom: 10px;
+        font-size: 16px;
+        margin-top: 1%
+    }
+    .Graphic__body {
+        flex-direction: column
+    }
+    .Slideshow__indicator {
+        bottom: 5%;
+        left: 0;
+        width: 100%;
+        position: static;
+        justify-content: space-between;
+        margin-top: unset
+    }
+    .Slideshow__indicator a {
+        width: 23%;
+        height: 75px;
+        margin: unset
+    }
+    .Slideshow {
+        height: 340px;
+        width: 100%
+    }
+    .News {
+        background: #222;
+        padding-bottom: 10%
+    }
+    .News > img {
+        width: auto;
+        height: 700px
+    }
+    .News__acting {
+        height: 220px
+    }
+    .News .White__bg {
+        height: unset;
+        padding: 10px;
+        width: 80%;
+    }
+    .News__wrap {
+        padding: unset
+    }
+    .News__left {
+        width: 100%;
+        margin-top: unset
+    }
+    .News__acting__list,
+    .News__new__list {
+        height: 195px
+    }
+    .Acting__time {
+        font-size: 9pt
+    }
+    .News__acting__list .Article__a {
+        width: 97%
+    }
+    .News__acting__list .Article__a h3 {
+        font-size: 13px
+    }
+    .News .Section__title {
+        width: 97%;
+    }
+    .News .Section__title__mirror {
+        font-size: 36px;
+        top: 35%;
+        color: #eee;
+        left: 0
+    }
+    .News__acting__title {
+        font-size: 16px
+    }
+    .News__Dancemania {
+        margin-top: 10px;
+        height: 80px;
+        font-size: 12px
+    }
+    .News__Dancemania:nth-child(1) {
+        margin-bottom: 0
+    }
+    .News__Dancemania__cover h4 {
+        font-size: 20px
+    }
+    .About__main .Area__body__item {
+        width: 75%;
+        padding-bottom: 30px
+    }
+    .Rental__title {
+        margin-top: -53px
+    }
+    .Blog {
+        padding-top: unset
+    }
+    .Blog__wrap {
+        margin-bottom: unset;
+        padding-left: 20px;
+        padding-right: 20px
+    }
+    .Blog__wrap article {
+        
+        margin:0 auto 20px
+    }
+    .Blog__wrap article:nth-child(3) {
+         margin:0 auto 20px
+    }
+    .BlogRental {
+        background: unset
+    }
+    .BlogRental:before {
+        content: "";
+        display: block;
+        position: fixed;
+        top: 0;
+        left: 0;
+        z-index: -1;
+        width: 100%;
+        height: 100vh;
+        background: url(/wp-content/themes/studio-ax/src/images/top/blog_bg.png)center/cover no-repeat;
+        -webkit-background-size: cover
+    }
+    .BlogRental .Blog__wrap article .Article__a__text {
+        height: 20%
+    }
+    .Blog__wrap .Article__a__cover > img {
+        width: 100%;
+        height: auto;
+    }
+    .Blog__title {
+        font-size: 35px;
+        margin-top: -2%
+    }
+    .Single__body .old_logo img {
+        width: unset;
+    }
+    .Firstview__body {
+        margin-top: 40%
+    }
+    .Page__rental .Firstview__body__text {
+        margin-top: 30%;
+        margin-left: unset
+    }
+    .Page__main .Section__title__mirror {
+        margin-top: unset;
+        font-size: 36px !important;
+    }
+    .About .Firstview__body .Section__title {
+        margin-bottom: 28%
+    }
+    .About .Firstview__body__text {
+        line-height: 1.5;
+        width: 95%;
+        margin-left: auto;
+        margin-right: auto
+    }
+    .Firstview__body h3 {
+        font-size: 1pc;
+        line-height: 1.5;
+        margin-bottom: 15px;
+        margin-left: 3%
+    }
+    .Career__wrap {
+        top: 10%
+    }
+    .AboutSlideshow__nav {
+        top: .6%
+    }
+    .AboutSlideshow {
+        width: 92%;
+        height: 670px
+    }
+    .AboutSlideshow__nav a {
+        font-size: 40px
+    }
+    .AboutSlideshow__head__item h3 {
+        font-size: 2pc;
+        line-height: 1.4;
+        margin-bottom: 5%
+    }
+    .Career__span {
+        margin-top: unset
+    }
+    .Career__span,
+    .Career__year {
+        font-size: 14px
+    }
+    .Career__item__right {
+        font-size: 9pt
+    }
+    .Career__box__wrap {
+        width: 90%;
+        margin: 10px 0
+    }
+    .Career__box__wrap li,
+    .Career__box__wrap p {
+        margin-bottom: 5px
+    }
+    .Price__main .Firstview__body .Section__title {
+        margin-bottom: 28%
+    }
+    .Price__box {
+        width: 90%;
+        padding: 10px;
+        font-size: 10px;
+        margin-bottom: 30px
+    }
+    .Price__box_inner:first-child {
+        margin-right: 20px;
+    }
+    .Price__box p {
+        font-size: 14px;
+    }
+    .Price__box h3 {
+        font-size: 9pt;
+        margin-bottom: 10px
+    }
+    .Price__box .tyuui {
+        font-size: 12px;
+        margin: 0 auto;
+        width: unset;
+    }
+    .Members__type__auto .Price__title,
+    .Members__type__cash .Price__title {
+        margin-bottom: 30px;
+        margin-left: unset;
+        margin-right: unset;
+        text-align: center;
+        font-size: 1pc;
+        letter-spacing: 2px
+    }
+    .Members__type ul {
+        width: 100%
+    }
+    .Members__type ul li {
+        width: 35%;
+        margin-bottom: 7%;
+        box-shadow: 5px 5px 0 #bbb;
+        padding-bottom: 10px;
+        padding-top: 35px
+    }
+    .Members__type ul li:nth-last-child(5) {
+        margin-left: unset
+    }
+    .Members__type ul li:nth-last-child(4) {
+        margin-right: unset
+    }
+    .Back__text {
+        font-size: 50px;
+        left: 12%
+    }
+    .Members__type ul li h4 {
+        font-size: 1pc;
+        padding-bottom: 5px;
+        margin-bottom: 10px
+    }
+    .Members__type ul li .price {
+        font-size: 9pt
+    }
+    .Members__type .Descrition {
+        margin-top: 5px;
+        font-size: 10px;
+        width: 100%
+    }
+    .Members__type .Caution {
+        font-size: 10px;
+        width: 100%;
+        margin-top: 0
+    }
+    .Members__notes {
+        margin-top: 50px;
+        font-size: 1pc
+    }
+    .Members__notes p:first-child {
+        margin-bottom: 20px;
+        line-height: 1.8;
+        font-size: 14px;
+        width: 86%
+    }
+    .Members__under > img {
+        position: static
+    }
+    .Members__under__auto {
+        position: absolute;
+        top: 0;
+        width: 100%
+    }
+    .Members__under__cash {
+        position: absolute;
+        bottom: 0;
+        width: 100%
+    }
+    .Members__under__auto,
+    .Members__under__cash {
+        flex-direction: column;
+        display: -webkit-box;
+        display: -moz-box;
+        display: box;
+        -webkit-box-orient: vertical;
+        -moz-box-orient: vertical;
+        box-orient: vertical
+    }
+    .Members__under .Price__title {
+        -webkit-box-ordinal-group: 1;
+        -moz-box-ordinal-group: 1;
+        box-ordinal-group: 1;
+        margin-top: 30px;
+        width: 100%;
+        font-size: 18px
+    }
+    .Members__under__item {
+        -webkit-box-ordinal-group: 2;
+        -moz-box-ordinal-group: 2;
+        box-ordinal-group: 2;
+    }
+    .Members__under__item > div {
+        height: 180px;
+    }
+    .Caution {
+        font-size: 12px;
+    }
+    .Members__notes p {
+        color: red;
+        padding-bottom: 20px;
+        font-size: 13px;
+        line-height: 1.5;
+        width: 90%;
+        margin: 0 auto;
+    }
+    .Members__under__item>div:nth-child(1) {
+        margin-top: 24px;
+        margin-right: unset
+    }
+    .Members__under__item>div:nth-child(3) {
+        margin-top: 22px
+    }
+    .Members__under__cash .Members__under__item>div:nth-child(1),
+    .Members__under__cash .Members__under__item>div:nth-child(2) {
+        margin-top: 0
+    }
+    .Price__title .Ja__large {
+        margin-bottom: 4px
+    }
+    .Width__harf {
+        width: 100%
+    }
+    .Nonmembers.school {
+        padding-bottom: 30px;
+    }
+    .Nonmembers .Price__box {
+        font-size: 9pt
+    }
+    .innerh2 {
+        font-size: 36px;
+    }
+    .Section__title .innerh2 span {
+        font-size: 18px;
+    }
+    .Price__box.tennouji {
+        margin-bottom: unset !important;
+    }
+    .Nonmembers .Price__box .Caution {
+        font-size: 10px
+    }
+    .Nonmembers__body {
+        width: 95%;
+        flex-direction: column
+    }
+    .Nonmembers__left {
+        margin-bottom: 40px;
+        width: 100%;
+        text-align: center
+    }
+    .Nonmembers__right {
+        width: 100%;
+        text-align: center;
+        margin-bottom: 30px
+    }
+    .Descrition {
+        font-size: 9pt
+    }
+    .Members__type .White__border {
+        width: 93%
+    }
+    .Price__title .Ja__large {
+        font-size: 20px
+    }
+    .Members__top > .Price__title,
+    .Nonmembers > .Price__title {
+        font-size: 18px;
+        letter-spacing: 10px;
+        padding-top: 20px;
+        margin-bottom: 20px
+    }
+    .Price__title .Price__title__span {
+        font-size: 9pt
+    }
+    .Price__title span .En__large {
+        font-size: 14px
+    }
+    .Nonmembers__body h3 {
+        font-size: 20px
+    }
+    .Descrition {
+        line-height: 2
+    }
+    .red {
+        line-height: 1.7;
+        margin-top: unset
+    }
+    .Nonmembers__left .Caution,
+    .Nonmembers__right .Caution {
+        font-size: 9pt
+    }
+    .juku div {
+        text-align: center;
+        color: #fff
+    }
+    .juku div h2 {
+        font-size: 18px;
+        padding-top: 40px;
+        margin-bottom: 40px;
+        letter-spacing: 10px;
+    }
+    .juku div h2 .Ja__large {
+        font-size: 20px
+    }
+    .juku div h2 .Price__title__span {
+        font-size: 9pt;
+        margin-top: 4px
+    }
+    .juku div h2 .En__large {
+        font-size: 14px
+    }
+    .juku div p {
+        font-size: 12px
+    }
+    .juku div .AX__Button {
+        width: 55%;
+        margin-top: 40px;
+        margin-bottom: 50px
+    }
+    .St__main .Firstview__body .Section__title {
+        margin-bottom: 30%
+    }
+    .Studio > img {
+        display: none
+    }
+    .Studio .Section__wrap {
+        position: static;
+        padding-top: 50px
+    }
+    .Studio .Slideshow__indicator {
+        flex-wrap: wrap
+    }
+    .Schedule .Slideshow__indicator a,
+    .Studio .Slideshow__indicator a {
+        width: 13%;
+        padding: 10px 20px;
+        text-align: center
+    }
+    .Studio .Slideshow {
+        height: 1450px
+    }
+    .Front__item > img {
+        width: 50%;
+        height: 150px
+    }
+    .Front__item {
+        width: 100%
+    }
+    .Front__item p {
+        font-size: 9pt
+    }
+    .Slideshow__head__item h2 {
+        font-size: 30px;
+        margin-top: 10%;
+        margin-bottom: 10%
+    }
+    .St__top {
+        width: 100%;
+        margin-bottom: unset
+    }
+    .St__top img {
+        width: 33%;
+        height: 110px
+    }
+    .St__top div p {
+        line-height: 1.5;
+        margin-bottom: unset;
+        font-size: 11px;
+        padding: 5px
+    }
+    .St__middle {
+        margin-top: 10%
+    }
+    .St__middle p {
+        margin-bottom: 10px;
+        font-size: 9pt
+    }
+    .St__under {
+        flex-direction: column;
+        text-align: center
+    }
+    .St__under h5 {
+        margin-bottom: 3%
+    }
+    .St__detail,
+    .St__price {
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 10%
+    }
+    .St__under h4 {
+        font-size: 20px;
+        margin-bottom: 5%;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%
+    }
+    .St__access {
+        width: 85%
+    }
+    .Slideshow__head__item .AX__Button {
+        width: 60%;
+        margin-top: 15%
+    }
+    .Carendar__form h2.first {
+        font-size: 34px
+    }
+    .St__access h4 {
+        width: 60%
+    }
+    .chuigaki {
+        margin: 50px 0
+    }
+    .Carendar__form h2 {
+        margin-bottom: 14%
+    }
+    .mobile_margin {
+        margin-bottom: 27%
+    }
+    .Schedule {
+        background: #222
+    }
+    .Schedule .Graphic__body {
+        padding-top: 10%
+    }
+    .Schedule .Slideshow__indicator {
+        flex-wrap: wrap
+    }
+    .Schedule .Slideshow__indicator a,
+    .Studio .Slideshow__indicator a {
+        padding: 5px 0 0
+    }
+    .Studio .Slideshow__head__item h2 {
+        margin-top: 10%;
+        margin-bottom: 10%
+    }
+    .Schedule .Slideshow__head__item h3 {
+        font-size: 24px
+    }
+    .Schedule .Slideshow {
+        height: 1500px;
+        margin-top: unset
+    }
+    .Schedule .Slideshow__head__item table {
+        width: 95%;
+        white-space: nowrap;
+        table-layout: fixed;
+        word-break: break-all;
+        word-wrap: break-all;
+    }
+    .Schedule .Slideshow__head__item h2 {
+        font-size: 24px
+    }
+    .Schedule .Slideshow__head__item tr {
+        justify-content: unset
+    }
+    .Schedule .Slideshow__head__item th {
+        width: 25%;
+        font-size: 18px
+    }
+    .Inst__table__td {
+        width: 22%;
+        padding: 5px
+    }
+    .Inst__table__td a {
+        flex-direction: column;
+        padding: unset
+    }
+    .Inst__table__td a div:last-child {
+        width: 100%;
+    }
+    .Schedule .Slideshow__head__item .Inst__table__name {
+        font-size: 9pt;
+        margin-bottom: 5px
+    }
+    .table-scroll {
+        width: unset !important;
+    }
+    .Schedule .Slideshow__head__item .Inst__table__jenre,
+    .Schedule .Slideshow__head__item .Inst__table__time {
+        font-size: 10px;
+        margin-bottom: 5px
+    }
+    .Inst__table__td img {
+        display: block;
+        margin-bottom: 10px;
+        margin-left: auto;
+        margin-right: auto
+    }
+    .Free {
+        font-size: 10px;
+        line-height: 1
+    }
+    .Inst__imgcover {
+        margin-bottom: 10px;
+        width: 5pc;
+        height: 5pc
+    }
+    .Artist_img {
+        height: 300px;
+        right: 0 !important
+    }
+    .Instinner__main .Section__title__h2,
+    .Instinner__main .Section__title__mirror {
+        font-size: 30px !important
+    }
+    .Instinner__main .Firstview__body {
+        margin-top: 60%
+    }
+    .Insttop__table {
+        width: 85%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 30%
+    }
+    .Insttop__table__th {
+        font-size: 9pt;
+        margin-right: 5%;
+        width: 20%
+    }
+    .Insttop__table__td {
+        font-size: 11px
+    }
+    .Instunder {
+        background: url('/wp-content/themes/studio-ax/src/images/instructor/ist_detailunder_sp.png');
+        background-repeat: repeat;
+        background-size: cover
+    }
+    .Instunder__wrap {
+        position: static;
+        padding-top: 30px;
+        padding-bottom: 30px
+    }
+    .Instunder__body {
+        width: 75%;
+        flex-direction: column;
+        height: unset;
+        margin-top: unset
+    }
+    .Instunder__body,
+    .Instunder__left {
+        margin-left: auto;
+        margin-right: auto
+    }
+    .Instunder__left {
+        width: 100%
+    }
+    .Instunder__top__item {
+        width: 100%
+    }
+    .Instunder__body__h2 {
+        text-align: left;
+        font-size: 18px
+    }
+    .Instunder__top__item p {
+        font-size: 9pt
+    }
+    .acky {
+        right: -130px !important
+    }
+    .Instunder__right iframe {
+        width: 280px;
+        height: 180px;
+    }
+    .akky {
+        height: 430px !important
+    }
+    .aiko {
+        right: -90pt !important
+    }
+    .aimi {
+        height: 25pc;
+        right: -20px !important
+    }
+    .akane {}
+    .ayana,
+    .bezi {
+        right: -75pt !important
+    }
+    .chikaj {
+        right: -90pt !important
+    }
+    .chiho {
+        height: 430px;
+        right: 0 !important
+    }
+    .chacco {
+        height: 420px;
+        right: -40px !important;
+        top: -30px !important;
+    }
+    .erika {
+        right: -170px !important
+    }
+    .hiro {
+        right: -140px !important
+    }
+    .hiyori {
+        top: -150px !important;
+        height: 500px;
+        right: -40px !important;
+    }
+    .ippei {
+        height: 25pc;
+        right: -14px !important
+    }
+    .john {
+        height: unset !important;
+        width: 100% !important;
+        right: -50px !important
+    }
+    .kaoru {
+        right: -20px !important
+    }
+    .kato {
+        /*right: -70px !important;*/
+    }
+    .kaho {
+        height: 350px;
+        right: -140px !important
+    }
+    .kimsaya {
+        top: 0 !important
+    }
+    .kokoro {
+        height: 25pc !important;
+        top: 0 !important
+    }
+    .kotaro {
+        right: -90px !important;
+    }
+    .kyogo {
+        right: -75pt !important
+    }
+    .lee {
+        height: 25pc !important;
+        right: -30px !important
+    }
+    .masumi {
+        right: -70px !important
+    }
+    .megumi {
+        top: 0 !important;
+        height: 350px;
+        right: -120px !important
+    }
+    .michi {
+        right: -75pt !important
+    }
+    .minami {
+        height: 400px !important;
+        
+    }
+    .mirai {
+        height: 550px !important;
+        top: -160px !important;
+        right: -100px !important;
+    }
+    .miki {
+        top: 0 !important;
+        height: 25pc !important
+    }
+    .mikiho {
+        right: -60px !important
+    }
+    .mio {
+        right: -60px !important
+    }
+    .mizuki {
+        right: -120px !important
+    }
+    .naoki {
+        height: 350px;
+        top: 0 !important;
+    }
+    .naoko {
+        top: 0 !important;
+        height: 350px !important
+    }
+    .naokof {
+        height: 25pc;
+        right: -50px !important
+    }
+    .nanaka {
+        right: -10px !important;
+        top: -50px !important;
+        height: 60%;
+    }
+    .na {
+        height: 20pc;
+        right: -140px !important
+    }
+    .narie {
+        height: 430px !important
+    }
+    .nori {
+        right: 0 !important;
+        height: 70% !important;
+    }
+    .nobou {
+        height: 360px !important
+    }
+    .runa {
+        right: -40px !important
+    }
+    .ryoma {
+        right: -110px !important
+    }
+    .ray {
+        right: -150px !important
+    }
+    .reiko {
+        right: -70px !important
+    }
+    .sawada {
+        height: 360px !important
+    }
+    .shige {
+        right: -90px !important
+    }
+    .shohei {
+        height: 20pc;
+        right: -60px !important
+    }
+    .shunji {
+        right: -140px !important
+    }
+    .sis {
+        right: -120px !important
+    }
+    .takami {
+        height: 420px !important
+    }
+    .takuro {
+        height: 25pc !important
+    }
+    .takuyasennin {
+        height: 350px;
+        right: -40px !important
+    }
+    .tatsuya {
+        height: 350px;
+        right: -70px !important
+    }
+    .tsukasa {
+        height: 25pc !important;
+        right: -20px !important
+    }
+    .tomoike {
+        height: 350px;
+        right: -10px !important;
+    }
+    .tomoko,
+    .tsuyoshi {
+        height: 380px !important
+    }
+    .uesugi {
+        height: 360px !important
+    }
+    .yukimi {
+        height: 25pc !important
+    }
+    .yutasakano {
+        right: -75pt !important
+    }
+    .yuki {
+        height: 360px;
+        right: 0 !important
+    }
+    .yukie {
+        right: -40px !important
+    }
+    .yuri {
+        right: -75pt !important
+    }
+    .kurihara {
+        height: 350px !important
+    }
+    .nagaya {
+        height: 25pc !important
+    }
+    .nakayama {
+        height: 350px;
+        right: -170px !important
+    }
+    .ozawanatsuko {
+        height: 300px;
+        right: -130px !important
+    }
+    .harada {
+        height: 420px !important
+    }
+    .marin {
+        height: 25pc !important
+    }
+    .mitsuru {
+        height: 300px;
+    }
+    .minakoc {
+        height: 350px;
+    }
+    .saku {
+        height: 25pc
+    }
+    .tsubasa {
+        height: 350px;
+        right: -110px !important
+    }
+    .StTbl__td,
+    .StTbl__th {
+        font-size: 9pt
+    }
+    .St__access h4 {
+        font-size: 16px;
+        margin-bottom: 5%;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%
+    }
+    .St__access h4 span {
+        font-size: 22px
+    }
+    .St__access p {
+        font-size: 12px
+    }
+    .Carendar {
+        position: static;
+        width: 95%;
+        margin-top: 15%
+    }
+    .Carendar__form.Change .Section__title {
+        font-size: 34px
+    }
+    .Carendar__studiobutton a {
+        padding: 5px 0 0;
+        font-size: 14px;
+        width: 13%;
+        text-align: center
+    }
+    .table__wrap {
+        overflow-x: scroll
+    }
+    .Carendar__form {
+        width: 90%
+    }
+    .Crd__fm__dl {
+        flex-direction: column
+    }
+    .Crd__fm__dt {
+        width: 70%
+    }
+    .totalprice {
+        width: 90%
+    }
+    .Crd__fm__dd {
+        width: 100%;
+        height: 40px
+    }
+    .Carendar__form.Confirm .Crd__fm__dd.checkbox.file {
+        height: 100%
+    }
+    .Carendar__table {
+        font-size: 10px;
+        width: 100%
+    }
+    .Carendar__table tr:first-child {
+        height: 40px;
+        font-size: 14px;
+    }
+    .Carendar__table tr:first-child th {
+        line-height: 4
+    }
+    .Carendar__table td,
+    .Carendar__table th {
+        padding: unset;
+        line-height: 2
+    }
+    .Carendar__table td {
+        width: 11%;
+        line-height: 2
+    }
+    .Carendar__table td.time {
+        line-height: 2.5
+    }
+    .Radio__div {
+        margin-right: 1%
+    }
+    .Carendar__wrap h3 {
+        font-size: 24px
+    }
+    input[type=submit] {
+        width: 55%
+    }
+    .Reserv__main .Section__title {
+        font-size: 24px;
+        margin-top: 20%
+    }
+    .Reserv__main p {
+        font-size: 14px
+    }
+    .Howtouse__item {
+        width: 85%
+    }
+    .Howtouse__item h3 {
+        font-size: 24px;
+        margin-bottom: 10%
+    }
+    .Howtouse__item h4 {
+        margin-bottom: 5%;
+        margin-top: 6%
+    }
+    .Page__main .Blog__Utitle {
+        margin-bottom: 35%
+    }
+    .Blog__main .Blog {
+        padding-top: 50px
+    }
+    .Blog__main .Blog__wrap article {
+        width: 48%;
+        height: 150px
+    }
+    .Blog__main .Blog__wrap figcaption {
+        height: 50%
+    }
+    .Blog__main .Blog__wrap figure:hover figcaption {
+        top: 50%
+    }
+    .Blog__wrap article .Article__a__text {
+        height: 40%
+    }
+    .Info__article__first .Article__a__cover .Article__category {
+        width: 90pt;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        color: #000;
+        background: #fff;
+        font-size: 10px;
+    }
+    .Article__a__cover .Article__category {
+        width: 5pc;
+        font-size: 10px;
+    }
+    .Blog__main .Article__a__text h3 {
+        font-size: 9pt;
+        line-height: 1.3;
+        font-weight: bold
+    }
+    .Blog__main .Article__a__cover .Article__a__date {
+        font-size: 10px
+    }
+    .Page__news__wrap {
+        padding-left: 15px;
+        padding-right: 15px;
+        padding-top: 15px
+    }
+    .Bread__list {
+        padding-left: 3%;
+        padding-top: 10%
+    }
+    .Page__contents__top {
+        flex-direction: column
+    }
+    .Page__title {
+        font-size: 20px;
+        line-height: 1.3
+    }
+    .Page__contents__top .Article__category {
+        position: static;
+        height: 30px;
+        width: 35%;
+        line-height: 2;
+        color: #000;
+        background: #eee
+    }
+    .Page__main .Page__contents > article,
+    .Related__post {
+        padding: 15px
+    }
+    .Page__catch img {
+        width: 100%
+    }
+    .share li {
+        width: 19%
+    }
+    .share li span {
+        display: none
+    }
+    .share li a {
+        font-size: 24px;
+        line-height: 1
+    }
+    .Related__post ol li {
+        width: 48%;
+        height: 150px;
+        overflow: hidden;
+        margin-bottom: 15px
+    }
+    .Related__post ol li article,
+    .Related__post ol li article img {
+        width: 100%
+    }
+    .Related__post .Article__a__text {
+        height: 40%
+    }
+    .Related__post .Article__a__text h3 {
+        font-size: 9pt
+    }
+    .Related__post .Article__a__date {
+        display: none
+    }
+    .Related__post .Article__a__cover .Article__category {
+        line-height: unset;
+        display: none
+    }
+    #QandA-1 dt {
+        padding: 10px;
+        margin-bottom: 20px;
+        font-size: 1pc;
+        line-height: 1.5
+    }
+    #QandA-1 dd {
+        margin: 20px 1pc 20px 30px;
+        line-height: 140%;
+        text-indent: -24px;
+        font-size: 14px
+    }
+    #comments-list {
+        width: 95%
+    }
+    li.depth-1 {
+        padding-left: 20px;
+        padding-right: 20px;
+        margin-left: 20px;
+        margin-right: 20px
+    }
+    .comment-body > p {
+        padding: 5px
+    }
+    .reply {
+        width: 20%
+    }
+    .comment-respond {
+        margin-top: 50px;
+        width: 95%
+    }
+    .comment-respond form p {
+        width: 100%;
+        flex-direction: column
+    }
+    .comment-form input,
+    .comment-form textarea {
+        width: 90%;
+        margin-top: 10px
+    }
+    .Contact__body__text {
+        margin-top: 35%
+    }
+    .ContactAccess {
+        background: url('/wp-content/themes/studio-ax/src/images/contact/contact_bg.png');
+        background-repeat: repeat;
+        background-size: cover
+    }
+    .ContactAccess__wrap {
+        position: static
+    }
+    .Contact__form,
+    .Contact__text {
+        width: 90%
+    }
+    .Contact__text p {
+        font-size: 14px
+    }
+    .Contact__form__dl {
+        flex-direction: column
+    }
+    .Contact__form__dt {
+        width: 100%;
+        font-size: 14px
+    }
+    .Contact__form__dd {
+        width: 100%
+    }
+    .Contact__form input,
+    .Contact__form select {
+        height: 40px
+    }
+    .Form__privacy {
+        font-size: 14px;
+        margin-top: 14.31%
+    }
+    .Form__privacy h4 {
+        font-size: 1pc
+    }
+    .Form__privacy p {
+        width: 95%;
+        text-align: center;
+        font-size: 9pt;
+        margin-bottom: 5%;
+        line-height: 2;
+        margin-top: 10px;
+        margin-bottom: 10px
+    }
+    input[type=checkbox] {
+        height: unset
+    }
+    .err {
+        font-size: 9pt;
+        position: absolute;
+        top: 10%;
+        left: 27%;
+        width: 100%
+    }
+    .Access__wrap {
+        width: 85%;
+        margin-top: 20px
+    }
+    .Access__wrap h3 {
+        font-size: 20px
+    }
+    .Access__wrap p {
+        font-size: 9pt
+    }
+    .Access__Tel {
+        font-size: 1pc
+    }
+    .Access__Tel a {
+        display: block
+    }
+    .Googlemap {
+        width: 90%;
+        height: 25pc
+    }
+    .Access__Tel {
+        display: block;
+        margin-top: 20px
+    }
+    .Access__Tel a:first-child {
+        margin-bottom: 3%
+    }
+    .Link__wrap {
+        width: 90%
+    }
+    .Link__item {
+        margin-bottom: 10%
+    }
+    .Link__item__cover {
+        width: 40%;
+        height: 75pt
+    }
+    .Link__item__text {
+        width: 55%;
+        padding: unset
+    }
+    .Link__item__text h3 {
+        font-size: 14px;
+        margin-bottom: 5px
+    }
+    .Link__item__text p {
+        font-size: 9pt;
+        margin-bottom: 5px
+    }
+    .Link__item .AX__Button {
+        width: 60%;
+        margin-left: auto;
+        margin-right: auto;
+        padding-top: 10px;
+        padding-bottom: 5px;
+        font-size: 9pt
+    }
+    .Link__item .AX__Button .fa {
+        font-size: 18px
+    }
+    .Privacy {
+        margin-top: -150px;
+    }
+    .pri br {
+        display: none;
+    }
+    .Privacy__text {
+        width: 80%;
+    }
+    footer {
+        background: url('/wp-content/themes/studio-ax/src/images/footer/footer_spbg.png')
+    }
+    .Footer__logo {
+        width: 5pc;
+        margin-top: 20px;
+        margin-left: 10px;
+        margin-bottom: 20px
+    }
+    .Footer__logo a {
+        height: unset
+    }
+    .Footer__middle ul li {
+        margin-bottom: 4%;
+        margin-left: auto;
+        margin-right: auto;
+        width: 150px
+    }
+    .Footer__middle ul li a {
+        font-size: 20px
+    }
+    .Footer__under.Mobile__on ul {
+        display: flex;
+        flex-direction: unset;
+        width: 80%;
+        margin-bottom: 15px
+    }
+    .Footer__under ul li,
+    .Footer__under.Mobile__on ul {
+        margin-left: auto;
+        margin-right: auto
+    }
+    .Footer__under ul li a {
+        font-size: 1pc
+    }
+    .Footer__middle,
+    .Footer__under {
+        flex-direction: column;
+        position: static
+    }
+    .Footer__middle ul,
+    .Footer__under ul {
+        display: flex;
+        flex-direction: column
+    }
+    .Footer__ul__1_1,
+    .Footer__ul__1_2,
+    .Footer__ul__2_1,
+    .Footer__ul__2_2 {
+        margin: unset
+    }
+    .Sns__li {
+        display: flex;
+        width: 5pc;
+        justify-content: space-around;
+        padding-left: 10px;
+        padding-right: 10px;
+        margin-left: auto;
+        margin-right: auto
+    }
+    .Sns__li a {
+        color: #fff
+    }
+    footer small {
+        font-size: 14px
+    }
+    .Ignition__top2 {
+        top: 250%
+    }
+    .Mail__article > .Mail__Message {
+        width: 85%;
+        font-size: 14px
+    }
+    .margin-bottom {
+        margin-bottom: 10%;
+    }
+    .left {
+        left: 60%;
+    }
+    .Mail__article > p {
+        font-size: 20px;
+        margin-bottom: 10%
+    }
+    .Fix_reserv a img,
+    .Fix_reserv_2 a img {
+        width: 100%
+    }
+    .Fix_reserv_3 {
+        bottom: 42px;
+        width: 50%;
+        left: 0;
+    }
+}

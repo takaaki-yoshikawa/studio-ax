@@ -1,0 +1,150 @@
+﻿@charset "utf-8";
+/* ------------------------------
+   DESIGN/LAYOUT ELEMENTS
+------------------------------ */
+#wrapper {
+	margin: 0 auto;
+	padding: 60px 0;
+	width: 900px;
+	text-align: center;
+}
+
+
+/* ------------------------------
+   ELEMENTS
+------------------------------ */
+#filterBtn {
+	padding-bottom: 90px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+/*#filterBtn a {
+	margin: 0 10px;
+	padding: 5px 30px;
+	background: #fff;
+	background: linear-gradient(to bottom,  #fff 40%,#ddd 100%);
+	border: #ddd 1px solid;
+	border-radius: 30px;
+}
+
+#filterBtn a:hover {
+	background: #fff;
+}*/
+
+#filterBtn a.active {
+	text-shadow: 0 0 5px #fff;
+}
+
+#filterList ul {
+	margin: 0 auto;
+	width: 900px;
+	text-align: center;
+}
+
+#filterList ul li {
+	margin-left: 12px;
+	margin-right: 12px;
+	width: 200px;
+	height: 300px;
+	float: left;
+	transition: all .3s ease-in;
+	margin-bottom: 15px;
+}
+#filterList ul li:hover {
+	background: #666;
+}
+
+#filterList ul li div {
+	width: 200px;
+	height: 200px;
+	overflow: hidden;
+	margin-bottom: 15px;
+}
+#filterList ul li div img {
+	height: 100%;
+	width: auto;
+}
+#filterList ul li div .widthmax {
+	width: 100%;
+	height: auto;
+}
+#filterList ul li a{
+	color: #fff;
+	font-family: serif;
+	text-decoration: none;
+}
+#filterList ul li h3{
+	font-size: 20px;
+	margin-bottom: 15px;
+    font-weight: bold;
+}
+#filterList ul li p{
+	font-size: 16px;
+	color:#bbbbbb;
+	margin-bottom: 15px;
+    font-weight: bold;
+}
+
+/* ------------------------------
+   CLEARFIX 
+------------------------------ */
+#filterList ul:before,
+#filterList ul:after {
+	content: " ";
+	display: table;
+}
+#filterList ul:after {clear: both;}
+#filterList ul {*zoom: 1;}
+@media (max-width: 800px){
+	#wrapper {
+		width: 700px;
+	}
+	#filterList ul {
+		width: 700px;
+	}
+	/*#filterList ul li {
+		width: 30%;
+	}*/
+}
+@media (max-width: 599px){
+	#wrapper {
+		width: 95%;
+	}
+	.Instructor .Inst__btn a {
+		font-size: 12px;
+	    display: block;
+	    width: 32% !important;
+    	padding: 5px 0px !important;
+	    margin-bottom: 6px !important;
+	}
+	.Instructor .Inst__btn a:first-child,.Instructor .Inst__btn a:nth-child(4), .Instructor .Inst__btn a:nth-child(7), .Instructor .Inst__btn a:nth-child(10),.Instructor .Inst__btn a:nth-last-child(3){
+	    border-left: 2px solid #fff;
+	}
+	.Instructor .Inst__btn a:nth-child(5), .Instructor .Inst__btn a:nth-child(9),.Instructor .Inst__btn a:last-child,.Instructor .Inst__btn a:nth-child(17) {
+		border-left: none;
+	}
+	#filterBtn {
+		padding-bottom: 40px;
+	}
+	#filterList ul {
+		width: 99%;
+	}
+	#filterList ul li {
+		width: 30%;
+		margin-left: 5px;
+    	margin-right: 5px;
+    	height: 190px;
+	}
+	#filterList ul li div {
+		width: 100%;
+		height: 110px;
+	}
+	#filterList ul li h3 {
+		font-size: 15px;
+	}
+	#filterList ul li p {
+		font-size: 11px;
+	}
+}
